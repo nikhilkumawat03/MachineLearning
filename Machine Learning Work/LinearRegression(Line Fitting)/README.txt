@@ -3,7 +3,7 @@
 Purpose of plotting.m file is to visualize that how a linear Regression 
 line fits to a model using Gradient Descent Algorithm.
 
-I have written code that fits the linear regression line to a model
+I have written a code that fits the linear regression line to a model
 while learning the dataset for prediction.
 
 Direction to use file plotting.m
@@ -13,7 +13,7 @@ Steps:
 
 1.  Create your account on matlab, they will give you free trial for
     1 month.
-2.  After creating account open MATLAB online...YES online, matlab gives
+2.  After creating account, open MATLAB online...YES online, matlab gives
     online interface same as offline.
 3.  Matlab also gives cloud space to store your data.
 4.  After setting up above enviroment follow below steps to run code:
